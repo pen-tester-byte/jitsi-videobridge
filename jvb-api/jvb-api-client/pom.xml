@@ -29,7 +29,7 @@
     <artifactId>jvb-api-client</artifactId>
 
     <properties>
-        <ktor.version>2.0.1</ktor.version>
+        <ktor.version>2.2.0</ktor.version>
     </properties>
 
     <dependencies>
